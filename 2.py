@@ -1,3 +1,7 @@
+""" 姓名：张jiabao
+学号：241404250336
+微信：wxid_mdp1tkozlxlf12
+
 import gymnasium as gym
 import numpy as np
 import matplotlib.pyplot as plt
